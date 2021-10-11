@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+}
+#nmbrOne {
+  display: block;
+  color: red;
+  padding: 1rem;
+  margin: 1rem;
+}
+#nmbrTwo {
+  display: block;
+  color: green;
+  padding: 1rem;
+  margin: 1rem;
+}
+#btnAdd {
+  padding: 1rem;
+  background-color: aquamarine;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 1rem;
+}
+#btnMul {
+  padding: 1rem;
+  background-color: aquamarine;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 1rem;
+}
+#btnSub {
+  padding: 1rem;
+  background-color: aquamarine;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 1rem;
+}
+
+#btnDiv {
+  padding: 1rem;
+  background-color: aquamarine;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 1rem;
+}
+#outAns {
+  margin: 1rem;
+  padding: 2rem;
+  display: block;
+  border-style: solid;
+  color: black;
+  font-color: black;
+  height: 2rem;
+  widows: 10rem;
+}
